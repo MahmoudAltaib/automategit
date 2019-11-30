@@ -1,0 +1,2 @@
+# automategit
+test project
